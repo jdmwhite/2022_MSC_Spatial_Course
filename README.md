@@ -31,6 +31,7 @@ There are two ways to run your code. Either through the .R scripts or the .RMD R
 - output - ignore: all of your outputs should be in html format
 - RMDs - R markdown documents used to create the annotated html tutorials
 - scripts - clean scripts, which mirror the code used in the R markdown documents and those seen in the annotated tutorials. If you find it easier, use these as a playground to test your code and then copy and paste the sections into your 3_Student_Report_Template.Rmd document.
+- slides - the PowerPoint slides used to provide background context for each session.
 
 
 #### Assignment:
