@@ -38,6 +38,5 @@ There are two ways to run your code. Either through the .R scripts or the .RMD R
 
 Please find the word document, MSc_SA_Assessment.docx for details on the assignment. You are required to submit your assignment as an .html file. This will be the default output setting of your RMarkdown document.
 
-Here is the link to the [Google Sheet page](https://docs.google.com/spreadsheets/d/1mQNTdIbr4o4OtnpMquFfUAj4Apc_VIz7nJ7IOxW0yzc/edit?usp=sharing), where you can find species you have been assigned for your report.
-
+Please find the assigned species names on QM+
 
