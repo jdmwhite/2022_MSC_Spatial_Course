@@ -36,7 +36,7 @@ The end goal of this practical session is to produce a dataset of cleaned specie
 
 IMPORTANT NOTES:
 
--   [Code chunks shown in GREEN]{style="color: green;"}: you must change this to your species of choice. Find your species [HERE](https://docs.google.com/spreadsheets/d/1mQNTdIbr4o4OtnpMquFfUAj4Apc_VIz7nJ7IOxW0yzc/edit?usp=sharing).
+-   [Code chunks shown in GREEN]{style="color: green;"}: you must change this to your species of choice. Find your species on QM+.
 -   [Code chunks shown in BLUE]{style="color: blue;"}: these are bits of code that require some important choices. You need to use your discretion and best practices here to find the best solution for your species. So change the values around and see how it changes the outputs. Add this to your end discussion.
 
 ```{r workflow, echo=FALSE, out.width='100%', fig.cap='Figure 1. The expected workflow and end product of session 1.'}
