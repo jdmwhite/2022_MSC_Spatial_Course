@@ -66,8 +66,7 @@ BONUS SECTION
 IMPORTANT NOTES:
 
 -   [Code chunks shown in GREEN]{style="color: green;"}: you must change
-    this to your species of choice. Find your species
-    [HERE](https://docs.google.com/spreadsheets/d/1mQNTdIbr4o4OtnpMquFfUAj4Apc_VIz7nJ7IOxW0yzc/edit?usp=sharing).
+    this to your species of choice. Find your species on QM+.
 -   [Code chunks shown in BLUE]{style="color: blue;"}: these are bits of
     code that require some important choices. You need to use your
     discretion and best practices here to find the best solution for
